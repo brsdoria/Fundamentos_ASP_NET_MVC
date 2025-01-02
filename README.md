@@ -40,7 +40,7 @@ O projeto demonstra
 
 A estrutura do projeto segundo a imagem abaixo é composta da seguinte forma:
 
-![EstruturaDoProjeto](screenshots/estrutura.png)
+![EstruturaDoProjeto](screenshots/estrutura.PNG)
 
 ## ⚠️ Atenção
 
