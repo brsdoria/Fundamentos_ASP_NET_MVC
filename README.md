@@ -14,10 +14,10 @@ aplicação funcional
   
 ## 📚 Principais Bibliotecas, Frameworks e Comandos do NuGet Utilizados
 
-* [net7.0]() - Versão da plataforma de desenvolvimento .NET, que é de código aberto e multiplataforma, desenvolvida pela Microsoft.
+* [net7.0](https://learn.microsoft.com/pt-br/dotnet/core/compatibility/7.0) - Versão da plataforma de desenvolvimento .NET, que é de código aberto e multiplataforma, desenvolvida pela Microsoft.
 
 ```
-
+dotnet add package Microsoft.NET.Sdk.Web --version 7.0.0
 ```
 
 * [Microsoft.EntityFrameworkCore]() - 
