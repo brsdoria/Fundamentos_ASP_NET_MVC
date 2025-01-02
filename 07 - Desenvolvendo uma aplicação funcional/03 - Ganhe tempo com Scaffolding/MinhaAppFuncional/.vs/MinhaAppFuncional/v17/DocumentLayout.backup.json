@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Fundamentos_ASP_NET_MVC\\07 - Desenvolvendo uma aplica\u00E7\u00E3o funcional\\03 - Ganhe tempo com Scaffolding\\MinhaAppFuncional\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B37485-2DF1-40AE-A20C-0C8E64238756}|src\\AppMvcFuncional\\AppMvcFuncional.csproj|c:\\users\\user\\desktop\\github\\publicados\\fundamentos_asp_net_mvc\\07 - desenvolvendo uma aplica\u00E7\u00E3o funcional\\03 - ganhe tempo com scaffolding\\minhaappfuncional\\src\\appmvcfuncional\\appmvcfuncional.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8B37485-2DF1-40AE-A20C-0C8E64238756}|src\\AppMvcFuncional\\AppMvcFuncional.csproj|solutionrelative:src\\appmvcfuncional\\appmvcfuncional.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppMvcFuncional",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Fundamentos_ASP_NET_MVC\\07 - Desenvolvendo uma aplica\u00E7\u00E3o funcional\\03 - Ganhe tempo com Scaffolding\\MinhaAppFuncional\\src\\AppMvcFuncional\\AppMvcFuncional.csproj",
+              "RelativeDocumentMoniker": "src\\AppMvcFuncional\\AppMvcFuncional.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Fundamentos_ASP_NET_MVC\\07 - Desenvolvendo uma aplica\u00E7\u00E3o funcional\\03 - Ganhe tempo com Scaffolding\\MinhaAppFuncional\\src\\AppMvcFuncional\\AppMvcFuncional.csproj",
+              "RelativeToolTip": "src\\AppMvcFuncional\\AppMvcFuncional.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-02T13:58:31.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

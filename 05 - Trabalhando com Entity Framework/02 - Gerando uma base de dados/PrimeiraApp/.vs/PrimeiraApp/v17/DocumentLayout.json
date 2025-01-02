@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Fundamentos_ASP_NET_MVC\\05 - Trabalhando com Entity Framework\\02 - Gerando uma base de dados\\PrimeiraApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C946F7-066E-4A55-BEB2-B7C8A27B6927}|PrimeiraApp.csproj|c:\\users\\user\\desktop\\github\\publicados\\fundamentos_asp_net_mvc\\05 - trabalhando com entity framework\\02 - gerando uma base de dados\\primeiraapp\\primeiraapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3C946F7-066E-4A55-BEB2-B7C8A27B6927}|PrimeiraApp.csproj|solutionrelative:primeiraapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrimeiraApp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Fundamentos_ASP_NET_MVC\\05 - Trabalhando com Entity Framework\\02 - Gerando uma base de dados\\PrimeiraApp\\PrimeiraApp.csproj",
+              "RelativeDocumentMoniker": "PrimeiraApp.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Fundamentos_ASP_NET_MVC\\05 - Trabalhando com Entity Framework\\02 - Gerando uma base de dados\\PrimeiraApp\\PrimeiraApp.csproj",
+              "RelativeToolTip": "PrimeiraApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-02T13:50:46.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

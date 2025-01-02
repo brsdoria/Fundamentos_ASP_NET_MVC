@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Fundamentos_ASP_NET_MVC\\07 - Desenvolvendo uma aplica\u00E7\u00E3o funcional\\01 - Conhecendo o ASP.NET Identity\\MinhaAppFuncional\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B37485-2DF1-40AE-A20C-0C8E64238756}|src\\AppMvcFuncional\\AppMvcFuncional.csproj|c:\\users\\user\\desktop\\github\\publicados\\fundamentos_asp_net_mvc\\07 - desenvolvendo uma aplica\u00E7\u00E3o funcional\\01 - conhecendo o asp.net identity\\minhaappfuncional\\src\\appmvcfuncional\\appmvcfuncional.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8B37485-2DF1-40AE-A20C-0C8E64238756}|src\\AppMvcFuncional\\AppMvcFuncional.csproj|solutionrelative:src\\appmvcfuncional\\appmvcfuncional.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B37485-2DF1-40AE-A20C-0C8E64238756}|src\\AppMvcFuncional\\AppMvcFuncional.csproj|c:\\users\\user\\desktop\\github\\publicados\\fundamentos_asp_net_mvc\\07 - desenvolvendo uma aplica\u00E7\u00E3o funcional\\01 - conhecendo o asp.net identity\\minhaappfuncional\\src\\appmvcfuncional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B37485-2DF1-40AE-A20C-0C8E64238756}|src\\AppMvcFuncional\\AppMvcFuncional.csproj|solutionrelative:src\\appmvcfuncional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Fundamentos_ASP_NET_MVC\\07 - Desenvolvendo uma aplica\u00E7\u00E3o funcional\\01 - Conhecendo o ASP.NET Identity\\MinhaAppFuncional\\src\\AppMvcFuncional\\Program.cs",
+              "RelativeDocumentMoniker": "src\\AppMvcFuncional\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Fundamentos_ASP_NET_MVC\\07 - Desenvolvendo uma aplica\u00E7\u00E3o funcional\\01 - Conhecendo o ASP.NET Identity\\MinhaAppFuncional\\src\\AppMvcFuncional\\Program.cs",
+              "RelativeToolTip": "src\\AppMvcFuncional\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T14:21:53.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppMvcFuncional.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Fundamentos_ASP_NET_MVC\\07 - Desenvolvendo uma aplica\u00E7\u00E3o funcional\\01 - Conhecendo o ASP.NET Identity\\MinhaAppFuncional\\src\\AppMvcFuncional\\AppMvcFuncional.csproj",
+              "RelativeDocumentMoniker": "src\\AppMvcFuncional\\AppMvcFuncional.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Fundamentos_ASP_NET_MVC\\07 - Desenvolvendo uma aplica\u00E7\u00E3o funcional\\01 - Conhecendo o ASP.NET Identity\\MinhaAppFuncional\\src\\AppMvcFuncional\\AppMvcFuncional.csproj",
+              "RelativeToolTip": "src\\AppMvcFuncional\\AppMvcFuncional.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-02T13:56:45.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
