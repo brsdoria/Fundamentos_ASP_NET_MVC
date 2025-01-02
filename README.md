@@ -3,7 +3,8 @@
 ## 📝️ Escopo do Projeto
 
 <p align="justify">
-O projeto demonstra 
+O projeto demonstra uma visão geral de projetos focados nos fundamentos do ASP.NET MVC, 
+abrangendo: introdução, controllers, models, views e razor, entity framework, formulários e uma aplicação funcional.
 </p>
 
 ## 🛠️ Construído com
