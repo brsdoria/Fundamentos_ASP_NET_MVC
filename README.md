@@ -54,7 +54,7 @@ NuGet\Install-Package Elmah.Io.AspNetCore -Version 4.1.37
 
 A estrutura do projeto segundo a imagem abaixo é composta da seguinte forma:
 
-![EstruturaDoProjeto](screenshots/estrutura.PNG)
+![EstruturaDoProjeto](screenshots/estrutura.png)
 
 ## ⚠️ Atenção
 
