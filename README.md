@@ -1,4 +1,4 @@
-# REST com ASP.NET Core WebAPI 
+# Fundamentos do ASP.NET MVC
 
 ## 📝️ Escopo do Projeto
 
@@ -61,12 +61,6 @@ Biblioteca para registrar e monitorar erros de aplicação em tempo real.
 ```
 NuGet\Install-Package Elmah.Io.AspNetCore -Version 4.1.37
 ```
-
-## 🚧 Fluxo da Arquitetura do Projeto
-
-Fluxo da arquitetura segundo a imagem abaixo é composta da seguinte forma:
-
-![FluxoArquitetura](screenshots/fluxo_da_arquitetura.png)
 
 ## 🚧 Descrição da Estrutura do Projeto
 
