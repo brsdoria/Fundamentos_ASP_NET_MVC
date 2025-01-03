@@ -23,19 +23,21 @@ dotnet add package Microsoft.NET.Sdk.Web --version 7.0.0
 * [Microsoft.EntityFrameworkCore]() - 
 
 ```
-
+NuGet\Install-Package Microsoft.EntityFrameworkCore -Version 7.0.9
 ```
 
-* [Microsoft.AspNetCore.Identity.EntityFrameworkCore]() - 
+* [Microsoft.AspNetCore.Identity.EntityFrameworkCore](https://learn.microsoft.com/pt-br/dotnet/api/microsoft.aspnetcore.identity.entityframeworkcore.identityuser?view=aspnetcore-1.1) - 
+Pacote do .NET que oferece uma implementação do ASP.NET Core Identity usando o Entity Framework Core (EF Core) para armazenamento e gerenciamento de dados relacionados à identidade e autenticação de usuários. 
 
 ```
-
+NuGet\Install-Package Microsoft.AspNetCore.Identity.EntityFrameworkCore -Version 7.0.8
 ```
 
-* [Microsoft.AspNetCore.Identity.UI]() - 
+* [Microsoft.AspNetCore.Identity.UI](https://learn.microsoft.com/pt-br/dotnet/api/microsoft.aspnetcore.identity.ui?view=aspnetcore-9.0) - 
+Pacote fornece interfaces de usuário (UI) prontas para serem usadas, que ajudam a implementar funcionalidades relacionadas à identidade, como o registro de usuários, login, redefinição de senha e gerenciamento de perfil.
 
 ```
-
+NuGet\Install-Package Microsoft.AspNetCore.Identity.UI -Version 7.0.8
 ```
 
 ## 🚧 Descrição da Estrutura do Projeto
