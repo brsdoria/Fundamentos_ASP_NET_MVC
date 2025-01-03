@@ -20,7 +20,8 @@ aplicação funcional
 dotnet add package Microsoft.NET.Sdk.Web --version 7.0.0
 ```
 
-* [Microsoft.EntityFrameworkCore]() - 
+* [Microsoft.EntityFrameworkCore](https://learn.microsoft.com/pt-br/ef/core/get-started/overview/install) - 
+ORM que permite a interação entre aplicativos .NET e bancos de dados relacionais de maneira eficiente e prática.
 
 ```
 NuGet\Install-Package Microsoft.EntityFrameworkCore -Version 7.0.9
@@ -34,7 +35,7 @@ NuGet\Install-Package Microsoft.AspNetCore.Identity.EntityFrameworkCore -Version
 ```
 
 * [Microsoft.AspNetCore.Identity.UI](https://learn.microsoft.com/pt-br/dotnet/api/microsoft.aspnetcore.identity.ui?view=aspnetcore-9.0) - 
-Pacote fornece interfaces de usuário (UI) prontas para serem usadas, que ajudam a implementar funcionalidades relacionadas à identidade, como o registro de usuários, login, redefinição de senha e gerenciamento de perfil.
+Pacote que fornece interfaces de usuário (UI) prontas para serem usadas, que ajudam a implementar funcionalidades relacionadas à identidade, como o registro de usuários, login, redefinição de senha e gerenciamento de perfil.
 
 ```
 NuGet\Install-Package Microsoft.AspNetCore.Identity.UI -Version 7.0.8
